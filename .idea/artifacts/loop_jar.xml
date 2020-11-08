@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="loop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/loop_jar</output-path>
+    <root id="archive" name="loop.jar">
+      <element id="module-output" name="loop" />
+    </root>
+  </artifact>
+</component>
